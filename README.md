@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @OffGridDeveloper
-- 👀 I’m interested in life science applications
-- 🌱 I’m currently working on python AI/ML apps for life sciences 
-- 💞️ I’m looking to collaborate on AI/ML and python initiatives
+- 👀 I’m interested in systems used in my industry: __pharma, biotech, medical devices, & nutraceuticals__
+- 🌱 I’m currently working on developing products for my company
+- 💞️ I’m looking to collaborate on AI/ML | python systems for __Life Sciences__
+- 💞️ I also established the _Algorithm Review_ Board to help Life Science apply AI ethically
 - 📫 How to reach me steve@inteknique.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: prefer camping off-grid rather than a ⭐️⭐️⭐️⭐️⭐️ hotel 
+- ⚡ Fun fact: my dog's name is __Alexa__ and my cat's name is __Siri__ 
+              _(had to change the wake-word on my devices; drives friends crazy when they ask about them and their devices awake & answer)_😂🤣
 
 # Here's my professional bio
 Steve Thompson has over two decades of experience in Life Sciences, specializing in Information Technology and Quality Assurance. He is the Founder & CEO of INTEKNIQUE, LLC, an AI technology company dedicated to advancing the Life Sciences industry.
@@ -13,5 +15,4 @@ Steve is a certified systems auditor, published author, and frequent speaker at 
 
 Steve’s achievements include an APEX 2020 award for excellence for co-authoring a peer-reviewed article on Blockchain in Pharmaceutical Engineering, as well as the 2021 Voices In Validation podcast of the year award. He is committed to driving ethical advancements in Life Sciences technology, helping organizations harness the benefits of innovation while mitigating inherent risks.
 
-![image](https://github.com/user-attachments/assets/75ae294e-dfd2-42c3-a21f-197b24f548e8)
-
+![SDTHeadShotsmall](https://github.com/user-attachments/assets/d5f227c8-567c-41ec-a78a-436df460dc5c)
