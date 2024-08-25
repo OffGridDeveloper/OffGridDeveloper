@@ -5,8 +5,8 @@
 - 💞️ I also established the _Algorithm Review_ Board to help Life Science apply AI ethically
 - 📫 How to reach me steve@inteknique.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: my dog's name is __Alexa__ and my cat's name is __Siri__ 
-              _(had to change the wake-word on my devices; drives friends crazy when they ask about them and their devices awake & answer)_😂🤣
+- ⚡ Fun fact: my dog's name is __Alexa__ and my cat's name is __Siri__
+- >>>>>>>>>>>> _(had to change the wake-word on my devices; drives friends crazy when they ask about them and their devices awake & answer)_ 😂🤣
 
 # Here's my professional bio
 Steve Thompson has over two decades of experience in Life Sciences, specializing in Information Technology and Quality Assurance. He is the Founder & CEO of INTEKNIQUE, LLC, an AI technology company dedicated to advancing the Life Sciences industry.
