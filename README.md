@@ -8,9 +8,12 @@
 - ⚡ Fun fact: my dog's name is __Alexa__ and my cat's name is __Siri__
 - > _(had to change wake-word on my devices; drives friends crazy when they ask about 'em and their devices awake & answer)_ 😂🤣
 
-[YouTube] (https://www.youtube.com/@Inteknique)
-[LinkedIn] (https://www.linkedin.com/in/stevethompsonsocal)
-[X/Twitter] (https://x.com/LifeScienceAI)
+_- __TIP:__ _To open link in new browser window, right-click the link and choose to open it in a new tab._
+- [YouTube] (https://www.youtube.com/@Inteknique)
+- [LinkedIn] (https://www.linkedin.com/in/stevethompsonsocal)
+- [X/Twitter] (https://x.com/LifeScienceAI)
+- <a href="https://www.linkedin.com/in/stevethompsonsocal" target="_blank">LinkedIn</a>
+[LinkedIn](https://www.linkedin.com/in/stevethompsonsocal)
 
 
 # Here's my professional bio
