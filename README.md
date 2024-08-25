@@ -13,11 +13,8 @@ _- __TIP:__ _To open link in new browser window, right-click the link and choose
 - [LinkedIn] (https://www.linkedin.com/in/stevethompsonsocal)
 - [X/Twitter] (https://x.com/LifeScienceAI)
 - <a href="https://www.linkedin.com/in/stevethompsonsocal" target="_blank">LinkedIn</a>
-[LinkedIn](https://www.linkedin.com/in/stevethompsonsocal)
-
 
 # Here's my professional bio
-
 
 Steve Thompson has over two decades of experience in Life Sciences, specializing in Information Technology and Quality Assurance. He is the Founder & CEO of INTEKNIQUE, LLC, an AI technology company dedicated to advancing the Life Sciences industry.
 
