@@ -9,6 +9,7 @@
 - > _(had to change wake-word on my devices; drives friends crazy when they ask about 'em and their devices awake & answer)_ 😂🤣
 
 # Here's my professional bio
+[LinkedIn] (https://www.linkedin.com/in/stevethompsonsocal)
 Steve Thompson has over two decades of experience in Life Sciences, specializing in Information Technology and Quality Assurance. He is the Founder & CEO of INTEKNIQUE, LLC, an AI technology company dedicated to advancing the Life Sciences industry.
 
 Steve is a certified systems auditor, published author, and frequent speaker at industry conferences. He serves as a Board Director for PRCSQA and sat on Editorial Advisory Boards, as an Elite Faculty member for an industry association, and Adjunct Lecturer at prestigious Universities.
